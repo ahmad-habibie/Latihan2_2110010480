@@ -10,5 +10,7 @@ package universitas;
  * @author ahmad
  */
 public class MahasiswaBeraksi {
-    
+    public static void main(String[] args) {
+        
+    }
 }
